@@ -1,0 +1,32 @@
+export const dataTransfer = [
+    {
+        id: 1,
+        TransactionID: "12213",
+        Sender: "UsernameA",
+        SenderFullName:"Nguyen Van A adsas à",
+        Receiver: "UserName",
+        ReceiverFullName: "Nguyen Van B à à afsafaf à",
+        Amount: "2000 point",
+        Date: "19:00 14-07-2021 28p55s",
+      },
+      {
+        id: 2,
+        TransactionID: "12213",
+        Sender: "UsernameA",
+        SenderFullName:"Nguyen Van A",
+        Receiver: "UserName",
+        ReceiverFullName: "Nguyen Van B",
+        Amount: "2000 point",
+        Date: "19:00 14-07-2021 28p55s",
+      },
+      {
+        id: 3,
+        TransactionID: "12213",
+        Sender: "UsernameA",
+        SenderFullName:"Nguyen Van A",
+        Receiver: "UserName",
+        ReceiverFullName: "Nguyen Van B",
+        Amount: "2000 point",
+        Date: "19:00 14-07-2021 28p55s",
+      },
+]
